@@ -108,4 +108,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-Project Link: [https://github.com/sara-1515/chat-app](https://github.com/your-username/chat-app)
+Project Link: [https://github.com/sara-1515/chat-app](https://github.com/sara-1515/chat-app)
